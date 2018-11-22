@@ -19,6 +19,8 @@ A curated list of resources for graph databases and graph computing tools
 * [Sparksee](http://www.sparsity-technologies.com/#sparksee) - makes space and performance compatible with a small footprint and a fast analysis of large networks
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
+* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database
+* [S2Graph](https://s2graph.apache.org/) - A graph database designed for distributed and scalable management of highly interconnected data at web scale
 
 ### Triple stores
 
